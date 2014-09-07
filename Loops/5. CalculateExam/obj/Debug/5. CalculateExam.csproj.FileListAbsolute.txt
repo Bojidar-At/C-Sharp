@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\5. CalculateExam\bin\Debug\_5.CalculateExam.exe.config
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\5. CalculateExam\bin\Debug\_5.CalculateExam.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\5. CalculateExam\bin\Debug\_5.CalculateExam.pdb
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\5. CalculateExam\obj\Debug\_5.CalculateExam.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\5. CalculateExam\obj\Debug\_5.CalculateExam.pdb

@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\12. Null variable\bin\Debug\_12.Null_variable.exe
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\12. Null variable\bin\Debug\_12.Null_variable.pdb
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\12. Null variable\obj\Debug\_12.Null_variable.exe
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\12. Null variable\obj\Debug\_12.Null_variable.pdb

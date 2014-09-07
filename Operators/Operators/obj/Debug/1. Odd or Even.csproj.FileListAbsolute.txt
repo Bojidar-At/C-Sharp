@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\Operators\bin\Debug\Operators.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\Operators\bin\Debug\Operators.pdb
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\Operators\obj\Debug\1. Odd or Even.csprojResolveAssemblyReference.cache
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\Operators\obj\Debug\Operators.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\Operators\obj\Debug\Operators.pdb

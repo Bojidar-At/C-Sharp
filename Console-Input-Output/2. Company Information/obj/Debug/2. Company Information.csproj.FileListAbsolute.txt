@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\2. Company Information\bin\Debug\_2.Company_Information.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\2. Company Information\bin\Debug\_2.Company_Information.pdb
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\2. Company Information\obj\Debug\_2.Company_Information.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\2. Company Information\obj\Debug\_2.Company_Information.pdb

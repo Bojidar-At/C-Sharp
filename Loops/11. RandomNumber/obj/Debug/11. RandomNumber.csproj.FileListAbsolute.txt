@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\11. RandomNumber\bin\Debug\_11.RandomNumber.exe.config
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\11. RandomNumber\bin\Debug\_11.RandomNumber.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\11. RandomNumber\bin\Debug\_11.RandomNumber.pdb
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\11. RandomNumber\obj\Debug\_11.RandomNumber.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\11. RandomNumber\obj\Debug\_11.RandomNumber.pdb

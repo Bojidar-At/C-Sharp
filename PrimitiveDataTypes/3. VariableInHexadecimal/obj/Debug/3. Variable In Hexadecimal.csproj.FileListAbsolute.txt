@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\3. VariableInHexadecimal\bin\Debug\_3.VariableInHexadecimal.exe
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\3. VariableInHexadecimal\bin\Debug\_3.VariableInHexadecimal.pdb
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\3. VariableInHexadecimal\obj\Debug\_3.VariableInHexadecimal.exe
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\3. VariableInHexadecimal\obj\Debug\_3.VariableInHexadecimal.pdb

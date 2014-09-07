@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\10. Employars\bin\Debug\_10.Employars.exe
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\10. Employars\bin\Debug\_10.Employars.pdb
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\10. Employars\obj\Debug\_10.Employars.exe
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\10. Employars\obj\Debug\_10.Employars.pdb

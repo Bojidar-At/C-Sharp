@@ -1,0 +1,2 @@
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.exe
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\PrimitiveDataTypes\obj\Debug\PrimitiveDataTypes.pdb

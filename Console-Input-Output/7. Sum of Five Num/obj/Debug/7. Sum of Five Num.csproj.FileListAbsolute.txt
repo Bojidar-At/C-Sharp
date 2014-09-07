@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\7. Sum of Five Num\bin\Debug\_7.Sum_of_Five_Num.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\7. Sum of Five Num\bin\Debug\_7.Sum_of_Five_Num.pdb
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\7. Sum of Five Num\obj\Debug\_7.Sum_of_Five_Num.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\7. Sum of Five Num\obj\Debug\_7.Sum_of_Five_Num.pdb
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\7. Sum of Five Num\obj\Debug\7. Sum of Five Num.csprojResolveAssemblyReference.cache

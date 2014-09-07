@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\PrintMyName\bin\Debug\PrintMyName.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\PrintMyName\bin\Debug\PrintMyName.pdb
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\PrintMyName\obj\Debug\PrintMyName.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\PrintMyName\obj\Debug\PrintMyName.pdb

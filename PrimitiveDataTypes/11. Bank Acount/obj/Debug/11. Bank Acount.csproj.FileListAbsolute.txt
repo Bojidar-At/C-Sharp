@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\11. Bank Acount\bin\Debug\_11.Bank_Acount.exe
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\11. Bank Acount\bin\Debug\_11.Bank_Acount.pdb
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\11. Bank Acount\obj\Debug\_11.Bank_Acount.exe
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\11. Bank Acount\obj\Debug\_11.Bank_Acount.pdb

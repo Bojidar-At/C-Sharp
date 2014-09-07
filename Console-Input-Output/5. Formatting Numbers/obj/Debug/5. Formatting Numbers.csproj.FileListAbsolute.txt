@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\5. Formatting Numbers\bin\Debug\_5.Formatting_Numbers.pdb
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\5. Formatting Numbers\obj\Debug\5. Formatting Numbers.csprojResolveAssemblyReference.cache
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\5. Formatting Numbers\obj\Debug\_5.Formatting_Numbers.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\5. Formatting Numbers\obj\Debug\_5.Formatting_Numbers.pdb

@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\7, Point in a Circle\bin\Debug\7, Point in a Circle.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\7, Point in a Circle\bin\Debug\7, Point in a Circle.pdb
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\7, Point in a Circle\obj\Debug\7, Point in a Circle.csprojResolveAssemblyReference.cache
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\7, Point in a Circle\obj\Debug\7, Point in a Circle.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\7, Point in a Circle\obj\Debug\7, Point in a Circle.pdb

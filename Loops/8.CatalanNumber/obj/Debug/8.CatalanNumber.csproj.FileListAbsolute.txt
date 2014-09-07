@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\8.CatalanNumber\bin\Debug\8.CatalanNumber.exe.config
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\8.CatalanNumber\bin\Debug\8.CatalanNumber.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\8.CatalanNumber\bin\Debug\8.CatalanNumber.pdb
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\8.CatalanNumber\obj\Debug\8.CatalanNumber.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\8.CatalanNumber\obj\Debug\8.CatalanNumber.pdb

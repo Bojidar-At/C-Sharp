@@ -1,0 +1,6 @@
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\Problem 1. Exchange If Greater\bin\Debug\Problem_1.Exchange_If_Greater.exe.config
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\Problem 1. Exchange If Greater\bin\Debug\Problem_1.Exchange_If_Greater.exe
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\Problem 1. Exchange If Greater\bin\Debug\Problem_1.Exchange_If_Greater.pdb
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\Problem 1. Exchange If Greater\obj\Debug\Problem 1. Exchange If Greater.csprojResolveAssemblyReference.cache
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\Problem 1. Exchange If Greater\obj\Debug\Problem_1.Exchange_If_Greater.exe
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\Problem 1. Exchange If Greater\obj\Debug\Problem_1.Exchange_If_Greater.pdb

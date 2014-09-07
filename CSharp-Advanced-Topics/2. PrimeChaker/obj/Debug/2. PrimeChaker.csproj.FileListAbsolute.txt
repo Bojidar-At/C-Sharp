@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\7. C# Advance\7. CSharp-Advanced-Topics-Homeworks\CSharp-Advanced-Topics\2. PrimeChaker\bin\Debug\_2.PrimeChaker.exe
+D:\Божко\Soft\C# basic\7. C# Advance\7. CSharp-Advanced-Topics-Homeworks\CSharp-Advanced-Topics\2. PrimeChaker\bin\Debug\_2.PrimeChaker.pdb
+D:\Божко\Soft\C# basic\7. C# Advance\7. CSharp-Advanced-Topics-Homeworks\CSharp-Advanced-Topics\2. PrimeChaker\obj\Debug\_2.PrimeChaker.exe
+D:\Божко\Soft\C# basic\7. C# Advance\7. CSharp-Advanced-Topics-Homeworks\CSharp-Advanced-Topics\2. PrimeChaker\obj\Debug\_2.PrimeChaker.pdb

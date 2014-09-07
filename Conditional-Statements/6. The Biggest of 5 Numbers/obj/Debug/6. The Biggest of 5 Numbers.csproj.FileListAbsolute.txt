@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\6. The Biggest of 5 Numbers\bin\Debug\_6.The_Biggest_of_5_Numbers.exe.config
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\6. The Biggest of 5 Numbers\bin\Debug\_6.The_Biggest_of_5_Numbers.exe
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\6. The Biggest of 5 Numbers\bin\Debug\_6.The_Biggest_of_5_Numbers.pdb
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\6. The Biggest of 5 Numbers\obj\Debug\_6.The_Biggest_of_5_Numbers.exe
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\6. The Biggest of 5 Numbers\obj\Debug\_6.The_Biggest_of_5_Numbers.pdb

@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\11. NumberInDivide\bin\Debug\_11.NumberInDivide.exe.config
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\11. NumberInDivide\bin\Debug\_11.NumberInDivide.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\11. NumberInDivide\bin\Debug\_11.NumberInDivide.pdb
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\11. NumberInDivide\obj\Debug\_11.NumberInDivide.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\11. NumberInDivide\obj\Debug\_11.NumberInDivide.pdb

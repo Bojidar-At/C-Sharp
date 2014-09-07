@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\1. SumOfThreeInt\bin\Debug\_1.SumOfThreeInt.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\1. SumOfThreeInt\bin\Debug\_1.SumOfThreeInt.pdb
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\1. SumOfThreeInt\obj\Debug\1. SumOfThreeInt.csprojResolveAssemblyReference.cache
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\1. SumOfThreeInt\obj\Debug\_1.SumOfThreeInt.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\1. SumOfThreeInt\obj\Debug\_1.SumOfThreeInt.pdb

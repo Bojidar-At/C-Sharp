@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\7. C# Advance\7. CSharp-Advanced-Topics-Homeworks\CSharp-Advanced-Topics\1.Fibonacci\obj\Debug\1.Fibonacci.csprojResolveAssemblyReference.cache
+D:\Божко\Soft\C# basic\7. C# Advance\7. CSharp-Advanced-Topics-Homeworks\CSharp-Advanced-Topics\1.Fibonacci\bin\Debug\1.Fibonacci.exe
+D:\Божко\Soft\C# basic\7. C# Advance\7. CSharp-Advanced-Topics-Homeworks\CSharp-Advanced-Topics\1.Fibonacci\bin\Debug\1.Fibonacci.pdb
+D:\Божко\Soft\C# basic\7. C# Advance\7. CSharp-Advanced-Topics-Homeworks\CSharp-Advanced-Topics\1.Fibonacci\obj\Debug\1.Fibonacci.exe
+D:\Божко\Soft\C# basic\7. C# Advance\7. CSharp-Advanced-Topics-Homeworks\CSharp-Advanced-Topics\1.Fibonacci\obj\Debug\1.Fibonacci.pdb

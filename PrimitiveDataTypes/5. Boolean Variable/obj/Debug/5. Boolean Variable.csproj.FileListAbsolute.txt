@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\5. Boolean Variable\bin\Debug\_5.Boolean_Variable.exe
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\5. Boolean Variable\bin\Debug\_5.Boolean_Variable.pdb
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\5. Boolean Variable\obj\Debug\_5.Boolean_Variable.exe
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\5. Boolean Variable\obj\Debug\_5.Boolean_Variable.pdb

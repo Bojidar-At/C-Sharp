@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\14. ASCІІ Table\bin\Release\_14.ASCІІ_Table.exe
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\14. ASCІІ Table\bin\Release\_14.ASCІІ_Table.pdb
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\14. ASCІІ Table\obj\Release\14. ASCІІ Table.csprojResolveAssemblyReference.cache
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\14. ASCІІ Table\obj\Release\_14.ASCІІ_Table.exe
+D:\Божко\Soft\C# basic\2. Primitive-Data-Types-and-Variables\2. Primitive-Data-Types-and-Variables-Home Works\PrimitiveDataTypes\14. ASCІІ Table\obj\Release\_14.ASCІІ_Table.pdb

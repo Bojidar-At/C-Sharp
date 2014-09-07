@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\7. C# Advance\7. CSharp-Advanced-Topics-Homeworks\CSharp-Advanced-Topics\3. PrimeInRange\bin\Debug\_3.PrimeInRange.exe
+D:\Божко\Soft\C# basic\7. C# Advance\7. CSharp-Advanced-Topics-Homeworks\CSharp-Advanced-Topics\3. PrimeInRange\bin\Debug\_3.PrimeInRange.pdb
+D:\Божко\Soft\C# basic\7. C# Advance\7. CSharp-Advanced-Topics-Homeworks\CSharp-Advanced-Topics\3. PrimeInRange\obj\Debug\3. PrimeInRange.csprojResolveAssemblyReference.cache
+D:\Божко\Soft\C# basic\7. C# Advance\7. CSharp-Advanced-Topics-Homeworks\CSharp-Advanced-Topics\3. PrimeInRange\obj\Debug\_3.PrimeInRange.exe
+D:\Божко\Soft\C# basic\7. C# Advance\7. CSharp-Advanced-Topics-Homeworks\CSharp-Advanced-Topics\3. PrimeInRange\obj\Debug\_3.PrimeInRange.pdb

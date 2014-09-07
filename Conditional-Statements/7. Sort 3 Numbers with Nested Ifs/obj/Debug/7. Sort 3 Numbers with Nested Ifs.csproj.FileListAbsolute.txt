@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\7. Sort 3 Numbers with Nested Ifs\bin\Debug\_7.Sort_3_Numbers_with_Nested_Ifs.exe.config
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\7. Sort 3 Numbers with Nested Ifs\bin\Debug\_7.Sort_3_Numbers_with_Nested_Ifs.exe
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\7. Sort 3 Numbers with Nested Ifs\bin\Debug\_7.Sort_3_Numbers_with_Nested_Ifs.pdb
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\7. Sort 3 Numbers with Nested Ifs\obj\Debug\_7.Sort_3_Numbers_with_Nested_Ifs.exe
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\7. Sort 3 Numbers with Nested Ifs\obj\Debug\_7.Sort_3_Numbers_with_Nested_Ifs.pdb

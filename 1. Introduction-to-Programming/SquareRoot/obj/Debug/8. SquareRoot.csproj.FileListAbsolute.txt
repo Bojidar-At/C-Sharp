@@ -1,0 +1,2 @@
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\SquareRoot\obj\Debug\SquareRoot.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\SquareRoot\obj\Debug\SquareRoot.pdb

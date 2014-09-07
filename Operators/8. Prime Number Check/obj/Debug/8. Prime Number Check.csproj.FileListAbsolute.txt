@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\8. Prime Number Check\bin\Debug\_8.Prime_Number_Check.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\8. Prime Number Check\bin\Debug\_8.Prime_Number_Check.pdb
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\8. Prime Number Check\obj\Debug\_8.Prime_Number_Check.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\8. Prime Number Check\obj\Debug\_8.Prime_Number_Check.pdb
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\8. Prime Number Check\obj\Debug\8. Prime Number Check.csprojResolveAssemblyReference.cache

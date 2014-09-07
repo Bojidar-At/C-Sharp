@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\3. Divide by 5 and 7\bin\Debug\_3.Divide_by_5_and_7.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\3. Divide by 5 and 7\bin\Debug\_3.Divide_by_5_and_7.pdb
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\3. Divide by 5 and 7\obj\Debug\_3.Divide_by_5_and_7.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\3. Divide by 5 and 7\obj\Debug\_3.Divide_by_5_and_7.pdb

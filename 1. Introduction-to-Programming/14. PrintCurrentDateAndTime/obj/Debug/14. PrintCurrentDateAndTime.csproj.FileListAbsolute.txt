@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\14. PrintCurrentDateAndTime\bin\Debug\_14.PrintCurrentDateAndTime.exe.config
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\14. PrintCurrentDateAndTime\bin\Debug\_14.PrintCurrentDateAndTime.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\14. PrintCurrentDateAndTime\bin\Debug\_14.PrintCurrentDateAndTime.pdb
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\14. PrintCurrentDateAndTime\obj\Debug\_14.PrintCurrentDateAndTime.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\14. PrintCurrentDateAndTime\obj\Debug\_14.PrintCurrentDateAndTime.pdb

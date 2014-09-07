@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\11.Number as Words\bin\Debug\11.Number as Words.exe.config
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\11.Number as Words\bin\Debug\11.Number as Words.exe
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\11.Number as Words\bin\Debug\11.Number as Words.pdb
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\11.Number as Words\obj\Debug\11.Number as Words.exe
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\11.Number as Words\obj\Debug\11.Number as Words.pdb

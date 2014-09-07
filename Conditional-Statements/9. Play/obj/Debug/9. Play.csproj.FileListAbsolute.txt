@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\9. Play\bin\Debug\_9.Play.exe.config
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\9. Play\bin\Debug\_9.Play.exe
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\9. Play\bin\Debug\_9.Play.pdb
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\9. Play\obj\Debug\_9.Play.exe
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\9. Play\obj\Debug\_9.Play.pdb

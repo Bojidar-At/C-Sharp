@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\15. MyAgeAfter10Years\bin\Debug\_15.MyAgeAfter10Years.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\15. MyAgeAfter10Years\bin\Debug\_15.MyAgeAfter10Years.pdb
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\15. MyAgeAfter10Years\obj\Debug\_15.MyAgeAfter10Years.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\15. MyAgeAfter10Years\obj\Debug\_15.MyAgeAfter10Years.pdb
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\15. MyAgeAfter10Years\obj\Debug\15. MyAgeAfter10Years.csprojResolveAssemblyReference.cache

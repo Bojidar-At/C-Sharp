@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\4. Greather number\bin\Debug\_4.Greather_number.exe.config
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\4. Greather number\bin\Debug\_4.Greather_number.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\4. Greather number\bin\Debug\_4.Greather_number.pdb
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\4. Greather number\obj\Debug\_4.Greather_number.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\4. Greather number\obj\Debug\_4.Greather_number.pdb

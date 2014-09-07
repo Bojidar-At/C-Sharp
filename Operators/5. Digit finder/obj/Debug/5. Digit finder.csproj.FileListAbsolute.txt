@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\5. Digit finder\obj\Debug\5. Digit finder.csprojResolveAssemblyReference.cache
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\5. Digit finder\bin\Debug\_5.Digit_finder.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\5. Digit finder\bin\Debug\_5.Digit_finder.pdb
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\5. Digit finder\obj\Debug\_5.Digit_finder.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\5. Digit finder\obj\Debug\_5.Digit_finder.pdb

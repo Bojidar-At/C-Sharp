@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\9. trapezoid Areas\bin\Debug\_9.trapezoid_Areas.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\9. trapezoid Areas\bin\Debug\_9.trapezoid_Areas.pdb
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\9. trapezoid Areas\obj\Debug\_9.trapezoid_Areas.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\9. trapezoid Areas\obj\Debug\_9.trapezoid_Areas.pdb

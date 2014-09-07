@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\6. Four Digit Numbers\bin\Debug\_6.Four_Digit_Numbers.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\6. Four Digit Numbers\bin\Debug\_6.Four_Digit_Numbers.pdb
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\6. Four Digit Numbers\obj\Debug\_6.Four_Digit_Numbers.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\6. Four Digit Numbers\obj\Debug\_6.Four_Digit_Numbers.pdb

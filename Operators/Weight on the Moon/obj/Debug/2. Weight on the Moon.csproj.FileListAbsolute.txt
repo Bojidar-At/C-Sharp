@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\Weight on the Moon\bin\Debug\Weight on the Moon.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\Weight on the Moon\bin\Debug\Weight on the Moon.pdb
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\Weight on the Moon\obj\Debug\Weight on the Moon.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\Weight on the Moon\obj\Debug\Weight on the Moon.pdb

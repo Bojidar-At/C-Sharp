@@ -1,0 +1,6 @@
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\2. NumbersNotDivisibleBy3And7\bin\Debug\_2.NumbersNotDivisibleBy3And7.exe.config
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\2. NumbersNotDivisibleBy3And7\bin\Debug\_2.NumbersNotDivisibleBy3And7.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\2. NumbersNotDivisibleBy3And7\bin\Debug\_2.NumbersNotDivisibleBy3And7.pdb
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\2. NumbersNotDivisibleBy3And7\obj\Debug\_2.NumbersNotDivisibleBy3And7.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\2. NumbersNotDivisibleBy3And7\obj\Debug\_2.NumbersNotDivisibleBy3And7.pdb
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\2. NumbersNotDivisibleBy3And7\obj\Debug\2. NumbersNotDivisibleBy3And7.csprojResolveAssemblyReference.cache

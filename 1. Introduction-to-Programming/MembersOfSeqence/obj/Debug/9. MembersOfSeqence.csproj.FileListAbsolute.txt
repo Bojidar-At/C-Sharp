@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\MembersOfSeqence\obj\Debug\MembersOfSeqence.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\MembersOfSeqence\obj\Debug\MembersOfSeqence.pdb
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\MembersOfSeqence\bin\Debug\MembersOfSeqence.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\MembersOfSeqence\bin\Debug\MembersOfSeqence.pdb

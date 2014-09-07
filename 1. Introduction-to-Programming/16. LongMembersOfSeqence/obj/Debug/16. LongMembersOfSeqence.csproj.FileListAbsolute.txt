@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\16. LongMembersOfSeqence\bin\Debug\_16.LongMembersOfSeqence.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\16. LongMembersOfSeqence\bin\Debug\_16.LongMembersOfSeqence.pdb
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\16. LongMembersOfSeqence\obj\Debug\_16.LongMembersOfSeqence.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\16. LongMembersOfSeqence\obj\Debug\_16.LongMembersOfSeqence.pdb

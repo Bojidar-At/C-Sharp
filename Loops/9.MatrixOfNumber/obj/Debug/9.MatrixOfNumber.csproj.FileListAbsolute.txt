@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\9.MatrixOfNumber\bin\Debug\9.MatrixOfNumber.exe.config
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\9.MatrixOfNumber\bin\Debug\9.MatrixOfNumber.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\9.MatrixOfNumber\bin\Debug\9.MatrixOfNumber.pdb
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\9.MatrixOfNumber\obj\Debug\9.MatrixOfNumber.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\9.MatrixOfNumber\obj\Debug\9.MatrixOfNumber.pdb

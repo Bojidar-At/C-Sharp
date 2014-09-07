@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\13. Modify a Bit\bin\Debug\_13.Modify_a_Bit.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\13. Modify a Bit\bin\Debug\_13.Modify_a_Bit.pdb
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\13. Modify a Bit\obj\Debug\13. Modify a Bit.csprojResolveAssemblyReference.cache
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\13. Modify a Bit\obj\Debug\_13.Modify_a_Bit.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\13. Modify a Bit\obj\Debug\_13.Modify_a_Bit.pdb

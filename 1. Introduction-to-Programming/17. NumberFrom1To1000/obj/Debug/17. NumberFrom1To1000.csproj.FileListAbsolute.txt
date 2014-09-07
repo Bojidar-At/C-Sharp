@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\17. NumberFrom1To1000\bin\Debug\_17.NumberFrom1To1000.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\17. NumberFrom1To1000\bin\Debug\_17.NumberFrom1To1000.pdb
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\17. NumberFrom1To1000\obj\Debug\_17.NumberFrom1To1000.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\17. NumberFrom1To1000\obj\Debug\_17.NumberFrom1To1000.pdb

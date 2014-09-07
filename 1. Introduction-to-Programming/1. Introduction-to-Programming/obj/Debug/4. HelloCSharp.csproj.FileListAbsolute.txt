@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\1. Introduction-to-Programming\obj\Debug\_1.Introduction_to_Programming.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\1. Introduction-to-Programming\obj\Debug\_1.Introduction_to_Programming.pdb
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\1. Introduction-to-Programming\bin\Debug\_1.Introduction_to_Programming.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\1. Introduction-to-Programming\bin\Debug\_1.Introduction_to_Programming.pdb

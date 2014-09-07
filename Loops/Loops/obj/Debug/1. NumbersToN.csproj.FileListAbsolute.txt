@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\Loops\bin\Debug\Loops.exe.config
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\Loops\bin\Debug\Loops.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\Loops\bin\Debug\Loops.pdb
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\Loops\obj\Debug\Loops.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\Loops\obj\Debug\Loops.pdb

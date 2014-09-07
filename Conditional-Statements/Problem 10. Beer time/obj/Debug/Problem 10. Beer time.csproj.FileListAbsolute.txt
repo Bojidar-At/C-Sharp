@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\Problem 10. Beer time\bin\Debug\Problem_10.Beer_time.exe.config
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\Problem 10. Beer time\bin\Debug\Problem_10.Beer_time.exe
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\Problem 10. Beer time\bin\Debug\Problem_10.Beer_time.pdb
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\Problem 10. Beer time\obj\Debug\Problem_10.Beer_time.exe
+D:\Божко\Soft\C# basic\5. Condition Statment\5. Conditional-Statements-Homework\Problem 1. Exchange If Greater\Problem 10. Beer time\obj\Debug\Problem_10.Beer_time.pdb

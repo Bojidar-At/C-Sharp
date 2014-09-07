@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\6. CalculateTwoFactorial\bin\Debug\_6.CalculateTwoFactorial.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\6. CalculateTwoFactorial\bin\Debug\_6.CalculateTwoFactorial.pdb
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\6. CalculateTwoFactorial\obj\Debug\_6.CalculateTwoFactorial.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\6. CalculateTwoFactorial\obj\Debug\_6.CalculateTwoFactorial.pdb

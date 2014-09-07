@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\9.SumOfNNumber\bin\Debug\9.SumOfNNumber.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\9.SumOfNNumber\bin\Debug\9.SumOfNNumber.pdb
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\9.SumOfNNumber\obj\Debug\9.SumOfNNumber.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\9.SumOfNNumber\obj\Debug\9.SumOfNNumber.pdb

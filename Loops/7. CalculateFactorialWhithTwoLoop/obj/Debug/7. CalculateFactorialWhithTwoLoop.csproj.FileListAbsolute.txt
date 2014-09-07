@@ -1,0 +1,6 @@
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\7. CalculateFactorialWhithTwoLoop\bin\Debug\_7.CalculateFactorialWhithTwoLoop.exe.config
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\7. CalculateFactorialWhithTwoLoop\bin\Debug\_7.CalculateFactorialWhithTwoLoop.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\7. CalculateFactorialWhithTwoLoop\bin\Debug\_7.CalculateFactorialWhithTwoLoop.pdb
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\7. CalculateFactorialWhithTwoLoop\obj\Debug\7. CalculateFactorialWhithTwoLoop.csprojResolveAssemblyReference.cache
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\7. CalculateFactorialWhithTwoLoop\obj\Debug\_7.CalculateFactorialWhithTwoLoop.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\7. CalculateFactorialWhithTwoLoop\obj\Debug\_7.CalculateFactorialWhithTwoLoop.pdb

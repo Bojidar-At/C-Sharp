@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.exe.config
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\10. OddAndEvenProduct\bin\Debug\_10.OddAndEvenProduct.pdb
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\10. OddAndEvenProduct\obj\Debug\_10.OddAndEvenProduct.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\10. OddAndEvenProduct\obj\Debug\_10.OddAndEvenProduct.pdb

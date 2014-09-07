@@ -1,0 +1,6 @@
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\3. MinMaxSumAve\bin\Debug\_3.MinMaxSumAve.exe.config
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\3. MinMaxSumAve\bin\Debug\_3.MinMaxSumAve.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\3. MinMaxSumAve\bin\Debug\_3.MinMaxSumAve.pdb
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\3. MinMaxSumAve\obj\Debug\3. MinMaxSumAve.csprojResolveAssemblyReference.cache
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\3. MinMaxSumAve\obj\Debug\_3.MinMaxSumAve.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\3. MinMaxSumAve\obj\Debug\_3.MinMaxSumAve.pdb

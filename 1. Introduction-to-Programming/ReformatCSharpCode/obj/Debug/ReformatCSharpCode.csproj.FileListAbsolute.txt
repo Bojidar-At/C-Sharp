@@ -1,0 +1,4 @@
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\ReformatCSharpCode\bin\Debug\ReformatCSharpCode.pdb
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\ReformatCSharpCode\obj\Debug\ReformatCSharpCode.pdb

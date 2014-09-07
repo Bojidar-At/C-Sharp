@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\14. Bits Exchange\bin\Debug\_14.Bits_Exchange.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\14. Bits Exchange\bin\Debug\_14.Bits_Exchange.pdb
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\14. Bits Exchange\obj\Debug\_14.Bits_Exchange.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\14. Bits Exchange\obj\Debug\_14.Bits_Exchange.pdb
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\14. Bits Exchange\obj\Debug\14. Bits Exchange.csprojResolveAssemblyReference.cache

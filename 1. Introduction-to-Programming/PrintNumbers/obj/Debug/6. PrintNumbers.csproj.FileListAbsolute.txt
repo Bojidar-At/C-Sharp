@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\PrintNumbers\obj\Debug\PrintNumbers.pdb
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\PrintNumbers\bin\Debug\PrintNumbers.exe
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\PrintNumbers\bin\Debug\PrintNumbers.pdb
+D:\Божко\Soft\C# basic\1. Introduction-to-Programming-Demos\1. Introduction-to-Programming\PrintNumbers\obj\Debug\6. PrintNumbers.csprojResolveAssemblyReference.cache

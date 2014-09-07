@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\13. BinaryToDecimal\bin\Debug\_13.BinaryToDecimal.exe.config
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\13. BinaryToDecimal\bin\Debug\_13.BinaryToDecimal.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\13. BinaryToDecimal\bin\Debug\_13.BinaryToDecimal.pdb
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\13. BinaryToDecimal\obj\Debug\_13.BinaryToDecimal.exe
+D:\Божко\Soft\C# basic\6. Lopps\Loops-Homework\Loops\13. BinaryToDecimal\obj\Debug\_13.BinaryToDecimal.pdb

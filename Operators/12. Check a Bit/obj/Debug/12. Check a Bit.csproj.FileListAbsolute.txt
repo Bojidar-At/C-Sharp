@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\12. Check a Bit\bin\Debug\_12.Check_a_Bit.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\12. Check a Bit\bin\Debug\_12.Check_a_Bit.pdb
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\12. Check a Bit\obj\Debug\_12.Check_a_Bit.exe
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\12. Check a Bit\obj\Debug\_12.Check_a_Bit.pdb
+D:\Божко\Soft\C# basic\3. Operators-Expressions-and-Statements\Operators-Expressions-and-Statements-Homework\Operators\12. Check a Bit\obj\Debug\12. Check a Bit.csprojResolveAssemblyReference.cache

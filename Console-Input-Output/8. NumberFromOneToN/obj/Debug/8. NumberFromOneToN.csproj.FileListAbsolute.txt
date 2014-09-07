@@ -1,0 +1,5 @@
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\8. NumberFromOneToN\bin\Debug\_8.NumberFromOneToN.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\8. NumberFromOneToN\bin\Debug\_8.NumberFromOneToN.pdb
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\8. NumberFromOneToN\obj\Debug\8. NumberFromOneToN.csprojResolveAssemblyReference.cache
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\8. NumberFromOneToN\obj\Debug\_8.NumberFromOneToN.exe
+D:\Божко\Soft\C# basic\4. Console - Input - Output\4. Console-Input-Output-Home\1. SumOfThreeInt\8. NumberFromOneToN\obj\Debug\_8.NumberFromOneToN.pdb
